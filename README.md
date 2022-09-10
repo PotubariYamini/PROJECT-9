@@ -1,5 +1,11 @@
 AWS-S3 bucket to SageMaker
 
+![image](https://user-images.githubusercontent.com/111189874/189472578-dd814e87-f81c-4c32-a9ce-fc2ee2df9f65.png)
+
+
+
+
+
 1. About AWS S3 bucket:
 * Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. Customers of all sizes and industries can use Amazon S3 to store and protect any amount of data for a range of use cases, such as data lakes, websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data analytics. Amazon S3 provides management features so that you can optimize, organize, and configure access to your data to meet your specific business, organizational, and compliance requirements.
 
@@ -37,6 +43,7 @@ step3: Finally, click on the Create notebook instance.
 
 
 outputs:
+
 ![image](https://user-images.githubusercontent.com/111189874/189472460-d39e7137-6486-4800-9f82-afbfd5fbdc97.png)
 
 
